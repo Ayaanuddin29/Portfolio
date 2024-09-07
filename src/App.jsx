@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom"
 import {About,Contact,Hero,Navbar,Works,StarsCanvas, Tech, Feedbacks} from './components'
 import Stars from "./components/canvas/Stars"
-import useWebGLContext from './components/useWebGLContext';
+import useWebGLContext from './useWebGLContext';
 function App() {
   useWebGLContext('myCanvas');
   return (
