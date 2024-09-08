@@ -51,6 +51,7 @@ const ComputersCanvas = () => {
     };
   }, []);
   return(
+   
     <Canvas 
     frameloop='demand'
     shadows 
