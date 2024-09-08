@@ -3,14 +3,10 @@ import {
     backend,
     creator,
     web,
-    express,
     javascript,
     typescript,
     html,
     css,
-    java,
-    python,
-    sql,
     reactjs,
     redux,
     tailwind,
@@ -113,13 +109,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "Express",
-      icon: express,
-    }, {
-      name: "GitHub",
-      icon: github,
     },
 
    
